@@ -1,2 +1,2 @@
 # machine in real use
- some proect for training ML
+ some projects for training ML
